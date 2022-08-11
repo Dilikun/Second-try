@@ -88,3 +88,6 @@ while playGame:
 
     if score > maxScore:
         maxScore = score
+
+print("*" * 40)
+print("Welcome to changes")
